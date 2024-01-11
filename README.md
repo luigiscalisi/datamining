@@ -1,1 +1,1 @@
-Sono contenuti i file relativi al progetto di dataming 
+Sono contenuti i file relativi al progetto di datamining
