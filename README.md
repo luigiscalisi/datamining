@@ -1,1 +1,1 @@
-Sono contenuti i file relativi al progetto di datamining
+Sono contenuti i file relativi ai progetti didattici
